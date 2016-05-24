@@ -58,8 +58,8 @@ ga_domain: heqiang.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "岁月静好"
-#sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: http://7xqfiw.com1.z0.glb.clouddn.com/blog_2146855627.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
