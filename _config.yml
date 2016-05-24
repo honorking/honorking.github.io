@@ -1,22 +1,19 @@
 # Site settings
-title: 发动机的小角落
-SEOTitle: 痞子达 | web学习、移动开发学习
+title: 风雨夜行者
+SEOTitle:  运维、安全、自动化、docker
 header-img: img/home-bg.jpg
-email: pizidago@gmail.com
+email: heqiang1068@gmail.com
 description: "专注于研究lnmp开发、移动开发、互联网未来"
 keyword: "php学习-php开发-linux学习-linux开发-移动开发-大数据"
-url: "http://pizida.com"              # your host, for absolute URL
+url: "http://heqiang.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     pizidago
-zhihu_username:     ma-da-11
-#github_username:    pizida
-#twitter_username:  pizida
-#facebook_username:  pizida
+weibo_username:     heqiang1988
+github_username:    honorking
 
 
 
@@ -42,7 +39,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: pizida
+duoshuo_username: honorking
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -54,13 +51,13 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 040ab86f3ffe91c85aa1eafa18c124c0
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: pizida.com
+ga_domain: heqiang.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "世界那么大，我想去看看。"
+sidebar-about-description: "岁月静好"
 #sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 sidebar-avatar: http://7xqfiw.com1.z0.glb.clouddn.com/blog_2146855627.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -72,23 +69,5 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "pizida blog",
-        href: "http://pizida.com"
-    },{
-        title: "晚晴幽草轩",
-        href: "http://www.jeffjade.com"
-    },{
-        title: "小空格",
-        href: "http://earlonus.com"
-    },{
-        title: "friend",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
-]
 
 gems: [jekyll-paginate]
