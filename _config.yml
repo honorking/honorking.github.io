@@ -1,6 +1,6 @@
 # Site settings
-title: 风雨夜行者
-SEOTitle:  运维、安全、自动化、docker
+title: honorking|王者荣耀
+SEOTitle:  heqiang's Blog | 运维的一切
 header-img: img/home-bg.jpg
 email: heqiang1068@gmail.com
 description: "专注于研究lnmp开发、移动开发、互联网未来"
@@ -57,9 +57,9 @@ ga_domain: heqiang.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "岁月静好"
+sidebar-about-description: "出来混，迟早要还的"
 #sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: http://ww4.sinaimg.cn/mw690/885b8543jw8er8xcpmifwj20u00u0afg.jpg       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://ww3.sinaimg.cn/mw690/885b8543jw8f46f7jz24nj20f00f0acb.jpg       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
