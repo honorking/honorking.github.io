@@ -57,7 +57,7 @@ ga_domain: heqiang.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "出来混，迟早要还的"
+sidebar-about-description: "出来混，迟早是要还的"
 #sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 sidebar-avatar: http://ww3.sinaimg.cn/mw690/885b8543jw8f46f7jz24nj20f00f0acb.jpg       # use absolute URL, seeing it's used in both `/` and `/about/`
 
